@@ -1,0 +1,148 @@
+year,brand,funny,show_product_quickly,patriotic,celebrity,danger,animals,use_sex,stock_name,price
+2001,Pepsi,True,False,False,False,False,False,True,PEP,-1.3297342518201916
+2001,Pepsi,True,True,False,False,False,False,True,PEP,-1.3297342518201916
+2001,Doritos,True,True,False,True,False,False,True,PEP,-1.3297342518201916
+2001,Pepsi,True,False,True,True,False,True,True,PEP,-1.3297342518201916
+2001,Pepsi,True,False,False,True,True,False,False,PEP,-1.3297342518201916
+2002,Pepsi,False,True,False,True,False,False,True,PEP,1.0127284628539923
+2003,Pepsi,True,True,False,True,False,False,False,PEP,-1.5191108278842904
+2004,Pepsi,True,False,False,False,False,True,False,PEP,3.450902097537842
+2004,Toyota,True,True,False,False,True,False,False,TM,2.3061891552600287
+2004,Pepsi,True,True,False,False,False,False,False,PEP,3.450902097537842
+2005,Pepsi,True,True,False,False,False,False,False,PEP,0.10870643711974283
+2005,Pepsi,True,True,False,True,False,False,True,PEP,0.10870643711974283
+2005,Pepsi,True,False,False,True,False,False,True,PEP,0.10870643711974283
+2006,Pepsi,True,True,False,True,True,False,False,PEP,0.755312996535956
+2006,Pepsi,True,True,False,True,False,False,True,PEP,0.755312996535956
+2007,Doritos,True,True,False,False,True,False,True,PEP,-0.5340085942106825
+2007,Coca-Cola,False,True,True,False,True,True,False,KO,-0.3581223610369477
+2007,Coca-Cola,False,True,False,False,False,True,False,KO,-0.3581223610369477
+2007,Toyota,False,True,False,False,False,False,False,TM,-0.948207681197502
+2007,Doritos,True,True,False,False,False,False,True,PEP,-0.5340085942106825
+2008,Doritos,True,True,False,False,True,False,False,PEP,-1.960651109672277
+2008,Coca-Cola,True,True,True,True,False,False,False,KO,-0.5675120791212223
+2008,Pepsi,True,False,False,True,True,False,True,PEP,-1.960651109672277
+2008,Coca-Cola,True,True,False,True,True,True,False,KO,-0.5675120791212223
+2009,Pepsi,True,False,False,False,True,False,False,PEP,-0.7365788388745642
+2009,Doritos,True,True,False,False,False,False,False,PEP,-0.7365788388745642
+2009,Coca-Cola,False,True,False,False,False,True,False,KO,-0.8376005803071376
+2009,Coca-Cola,True,False,False,False,False,True,False,KO,-0.8376005803071376
+2009,Doritos,True,True,False,False,True,True,True,PEP,-0.7365788388745642
+2009,Coca-Cola,True,True,False,True,True,False,False,KO,-0.8376005803071376
+2009,Pepsi,False,False,True,True,True,False,False,PEP,-0.7365788388745642
+2009,Doritos,True,True,False,False,True,False,False,PEP,-0.7365788388745642
+2010,Hynudai,False,True,True,False,False,False,False,HYMTF,1.3249998092651367
+2010,Bud Light,True,False,False,False,True,False,True,BUD,-0.15437860432539452
+2010,Bud Light,True,False,False,False,False,False,False,BUD,-0.15437860432539452
+2010,Doritos,True,True,False,False,True,False,False,PEP,2.665603716952397
+2010,Doritos,True,True,False,False,False,False,False,PEP,2.665603716952397
+2010,Doritos,True,True,False,False,True,True,False,PEP,2.665603716952397
+2010,Hynudai,False,False,False,True,False,False,False,HYMTF,1.3249998092651367
+2010,Bud Light,True,True,False,True,False,False,False,BUD,-0.15437860432539452
+2010,Budweiser,True,True,True,False,False,True,False,BUD,-0.15437860432539452
+2011,Coca-Cola,False,False,False,False,False,False,False,KO,0.0672346738267855
+2011,Bud Light,True,True,False,False,False,True,False,BUD,-0.5898497918189065
+2011,Coca-Cola,True,False,False,False,True,True,False,KO,0.0672346738267855
+2011,Hynudai,True,False,False,False,False,False,False,HYMTF,-0.11999988555908205
+2011,Doritos,True,True,False,False,True,True,False,PEP,-1.5411710798305336
+2011,Hynudai,False,False,False,False,False,True,False,HYMTF,-0.11999988555908205
+2011,Hynudai,False,False,False,False,False,False,False,HYMTF,-0.11999988555908205
+2011,Pepsi,True,True,False,False,True,False,True,PEP,-1.5411710798305336
+2012,Bud Light,True,True,False,False,False,True,True,BUD,6.94190493612205
+2012,Hynudai,True,True,False,False,True,False,False,HYMTF,0.75
+2012,Pepsi,False,True,False,True,False,False,False,PEP,-0.6157242336190833
+2012,Doritos,True,False,False,False,True,True,False,PEP,-0.6157242336190833
+2012,Toyota,True,True,False,False,True,True,True,TM,10.85701146585552
+2012,Coca-Cola,False,True,False,False,False,True,False,KO,1.048922042120541
+2012,Coca-Cola,False,True,False,False,False,True,False,KO,1.048922042120541
+2012,Budweiser,False,True,True,False,False,True,False,BUD,6.94190493612205
+2012,Coca-Cola,False,True,False,False,True,True,False,KO,1.048922042120541
+2012,Bud Light,False,True,False,False,False,False,False,BUD,6.94190493612205
+2012,Doritos,True,True,False,False,False,False,False,PEP,-0.6157242336190833
+2012,Budweiser,False,True,True,False,False,True,True,BUD,6.94190493612205
+2013,Hynudai,True,True,False,False,True,True,False,HYMTF,1.2749996185302734
+2013,Hynudai,False,False,False,False,False,True,False,HYMTF,1.2749996185302734
+2013,Doritos,True,True,False,False,False,True,False,PEP,5.366774638634175
+2013,Budweiser,False,True,False,False,False,False,True,BUD,5.701530898501915
+2013,Hynudai,True,True,False,False,True,True,False,HYMTF,1.2749996185302734
+2013,Bud Light,True,True,True,True,True,True,True,BUD,5.701530898501915
+2013,Bud Light,True,True,False,True,False,False,False,BUD,5.701530898501915
+2013,Doritos,True,True,False,False,False,False,False,PEP,5.366774638634175
+2013,Kia,True,False,False,False,False,True,True,KIMTF,0.0
+2013,Budweiser,False,True,False,False,False,False,True,BUD,5.701530898501915
+2013,Kia,True,True,False,False,True,False,True,KIMTF,0.0
+2013,Budweiser,False,True,False,False,False,True,False,BUD,5.701530898501915
+2013,Pepsi,True,False,False,False,False,False,True,PEP,5.366774638634175
+2013,Hynudai,False,True,False,False,False,False,False,HYMTF,1.2749996185302734
+2014,Coca-Cola,True,False,False,False,False,False,False,KO,-0.8186997046207765
+2014,Doritos,True,True,False,False,True,True,False,PEP,-0.40041746268656203
+2014,Budweiser,False,False,True,False,False,True,False,BUD,2.338150515390339
+2014,Bud Light,False,True,False,True,False,True,True,BUD,2.338150515390339
+2014,Bud Light,True,True,False,True,False,False,True,BUD,2.338150515390339
+2014,Toyota,True,True,False,True,False,True,False,TM,-6.283593204616608
+2014,Kia,False,False,False,True,True,False,False,KIMTF,0.0
+2014,Hynudai,True,True,False,True,True,False,True,HYMTF,-0.4050006866455078
+2014,Doritos,True,True,False,False,False,True,False,PEP,-0.40041746268656203
+2014,Coca-Cola,False,True,True,False,False,True,False,KO,-0.8186997046207765
+2014,Hynudai,True,False,False,False,True,False,True,HYMTF,-0.4050006866455078
+2014,Bud Light,False,True,False,False,False,False,False,BUD,2.338150515390339
+2014,Budweiser,False,False,True,False,False,True,False,BUD,2.338150515390339
+2015,Doritos,True,False,False,False,False,False,True,PEP,-0.1664077352764224
+2015,Budweiser,True,True,False,False,True,True,False,BUD,7.271720052364743
+2015,Budweiser,False,True,True,False,False,True,False,BUD,7.271720052364743
+2015,Doritos,True,True,True,False,False,True,False,PEP,-0.1664077352764224
+2015,Kia,True,True,False,True,True,True,True,KIMTF,0.0
+2015,Doritos,True,False,False,False,True,False,True,PEP,-0.1664077352764224
+2015,Pepsi,False,True,False,False,False,True,False,PEP,-0.1664077352764224
+2015,Budweiser,False,True,True,False,True,True,False,BUD,7.271720052364743
+2015,Coca-Cola,False,False,False,False,False,False,False,KO,-0.8269415625466792
+2015,Toyota,False,True,True,False,False,False,False,TM,12.112901708022035
+2016,Hynudai,True,False,False,False,True,True,False,HYMTF,3.2399997711181636
+2016,Pepsi,False,False,False,True,False,False,False,PEP,3.37800065403745
+2016,Hynudai,True,True,False,True,False,True,True,HYMTF,3.2399997711181636
+2016,Coca-Cola,True,True,False,True,True,False,False,KO,2.5423427658015565
+2016,Hynudai,True,False,False,True,False,False,False,HYMTF,3.2399997711181636
+2016,Budweiser,False,True,False,True,False,False,False,BUD,-0.4523394089800803
+2016,Kia,True,False,False,True,False,False,False,KIMTF,0.0
+2016,Bud Light,True,True,True,True,False,True,False,BUD,-0.4523394089800803
+2016,Doritos,True,True,False,False,False,False,False,PEP,3.37800065403745
+2016,Toyota,True,False,False,False,True,False,False,TM,-7.743775610873229
+2016,Budweiser,False,True,True,False,False,True,False,BUD,-0.4523394089800803
+2016,Doritos,True,True,False,False,False,True,False,PEP,3.37800065403745
+2017,Kia,True,False,False,True,True,True,False,KIMTF,-9.700000762939453
+2017,Budweiser,False,False,True,False,True,False,False,BUD,3.4022791267618264
+2017,Hynudai,False,False,True,False,False,False,False,HYMTF,2.615001678466797
+2018,Toyota,False,False,False,False,False,False,False,TM,-5.0700035095214835
+2018,Hynudai,False,True,False,False,False,False,False,HYMTF,-5.635000228881836
+2018,Doritos,True,True,False,True,False,False,False,PEP,-8.630804184826047
+2018,Coca-Cola,False,True,False,True,False,False,False,KO,-2.9737168370804237
+2018,Kia,False,False,False,True,False,False,False,KIMTF,0.0
+2018,Pepsi,False,True,True,True,False,False,False,PEP,-8.630804184826047
+2018,Coca-Cola,False,True,True,False,False,False,False,KO,-2.9737168370804237
+2018,Budweiser,False,False,True,False,False,False,False,BUD,-2.078158466856266
+2018,Bud Light,True,True,False,False,True,True,False,BUD,-2.078158466856266
+2018,Bud Light,True,True,False,False,True,True,False,BUD,-2.078158466856266
+2018,Coca-Cola,False,True,False,False,False,False,True,KO,-2.9737168370804237
+2018,Toyota,True,True,True,False,False,False,False,TM,-5.0700035095214835
+2019,Hynudai,True,False,True,True,False,False,False,HYMTF,-3.744999885559082
+2019,Doritos,False,True,False,True,False,False,False,PEP,9.2429414897031
+2019,Pepsi,True,True,False,True,False,False,True,PEP,9.2429414897031
+2019,Pepsi,True,True,False,True,False,False,False,PEP,9.2429414897031
+2019,Bud Light,True,True,False,False,False,False,False,BUD,11.009528419894735
+2019,Toyota,False,True,False,False,False,False,False,TM,-0.920001983642578
+2019,Toyota,False,True,False,False,False,False,False,TM,-0.920001983642578
+2019,Budweiser,False,False,False,False,False,True,False,BUD,11.009528419894735
+2019,Coca-Cola,False,True,True,False,False,True,False,KO,-1.6684110251176492
+2019,Kia,False,False,True,False,False,True,False,KIMTF,0.0
+2019,Bud Light,True,True,False,False,True,False,False,BUD,11.009528419894735
+2019,Kia,False,False,True,False,False,False,False,KIMTF,0.0
+2019,Bud Light,True,True,False,False,False,False,False,BUD,11.009528419894735
+2019,Bud Light,True,True,False,False,True,True,False,BUD,11.009528419894735
+2020,Bud Light,True,True,False,True,True,False,False,BUD,-33.35959620504618
+2020,Toyota,True,True,False,True,True,True,False,TM,-20.134990692138672
+2020,Coca-Cola,True,False,False,True,False,True,False,KO,-8.582430334732564
+2020,Kia,False,False,False,True,False,False,False,KIMTF,0.0
+2020,Hynudai,True,True,False,True,False,True,False,HYMTF,-9.25
+2020,Budweiser,False,True,True,True,True,False,False,BUD,-33.35959620504618
+2020,Doritos,True,True,False,True,True,True,False,PEP,-16.6142977610604
+2020,Pepsi,False,True,False,True,False,False,False,PEP,-16.6142977610604
